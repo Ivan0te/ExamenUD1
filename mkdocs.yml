@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: ExamenUD1 Iván
+
+theme:
+  name: material
+
+nav:
+  - Home: 
+    - "Conseguir y crear proyectos": ./1_Crear/index.md
+    - "Comandos básicos": ./2_Basicos/index.md
+    - "Ramas y fusiones": ./3_Ramas/index.md
+    - "Compartir y actualizar proyectos": ./4_Compartir/index.md
+    - "Inspeccionar y comparar": ./5_Inspeccionar/index.md

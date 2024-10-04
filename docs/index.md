@@ -1,8 +1,5 @@
 # Comandos de Git
 ---
-## Conseguir y crear proyectos
+## ExamenUD1 Iván
 
-| Comando | Descripción |
-| ------- | ----------- |
-| `git init` | Crea un nuevo proyecto |
-| `git clone <url>` | Crea un nuevo proyecto a partir de un repositorio existente |
+En este examen se presentan los comandos básicos de Git, así como las operaciones de ramas y fusiones, compartir y actualizar proyectos y inspeccionar y comparar.
