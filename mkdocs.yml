@@ -3,6 +3,11 @@ site_name: ExamenUD1 Iván
 theme:
   name: material
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Home: 
     - "Conseguir y crear proyectos": ./1_Crear/index.md
