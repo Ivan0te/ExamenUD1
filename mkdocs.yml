@@ -9,7 +9,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Home: 
+  - Comando Git: 
     - "Conseguir y crear proyectos": ./1_Crear/index.md
     - "Comandos básicos": ./2_Basicos/index.md
     - "Ramas y fusiones": ./3_Ramas/index.md
