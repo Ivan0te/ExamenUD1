@@ -13,3 +13,22 @@
 :fontawesome-regular-face-laugh-wink:
 
 :octicons-heart-fill-24:{ .heart }
+
+```bash
+git status
+```
+
+```bash
+git add [nombre-del-archivo.txt]
+```
+
+```bash
+git add -A
+```
+
+```bash
+git commit -m "[Mensaje del commit]"
+```
+
+```bash
+git rm -r [nombre-del-archivo.txt]              

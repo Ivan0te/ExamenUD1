@@ -17,3 +17,23 @@
 | `git merge [nombre de la rama de origen] [nombre de la rama de destino]` | Combina una rama de origen con una rama de destino |
 | `git stash` | Guarda temporalmente los cambios locales no confirmados |
 | `git stash clear` | Elimina todas las entradas del stash |
+
+```bash
+git branch
+```
+
+```bash
+git branch -a
+```
+
+```bash
+git branch [nombre de la rama]
+```
+
+```bash
+git branch -d [nombre de la rama]
+```
+
+```bash
+git push origin --delete [nombre de la rama]
+```
